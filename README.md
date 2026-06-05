@@ -98,6 +98,8 @@ The following business features were created:
 
 ### Buyer Segmentation
 
+7 Machine Learning Based Buyer Segments were identified using K-Means Clustering.
+
 * Conservative Investors
 * Experienced Buyers
 * High-Value Investors
