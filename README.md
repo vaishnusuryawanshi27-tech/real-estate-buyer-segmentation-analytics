@@ -98,9 +98,13 @@ The following business features were created:
 
 ### Buyer Segmentation
 
+* Conservative Investors
+* Experienced Buyers
 * High-Value Investors
+* Mid-Value Investors
+* Premium Investors
+* Stable Investors
 * Standard Property Buyers
-* Premium Buyers
 
 ### Transaction Segmentation
 
