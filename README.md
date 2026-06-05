@@ -130,6 +130,10 @@ The project includes the following Power BI dashboards:
 
 ## Streamlit Dashboard
 
+## Live Streamlit Dashboard
+
+https://real-estate-buyer-segmentation-analytics-4ldxebt8hf6hbn84ctray.streamlit.app/
+
 Interactive dashboard developed using Streamlit.
 
 ### Features
