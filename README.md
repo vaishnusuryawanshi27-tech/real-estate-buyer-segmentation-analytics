@@ -9,6 +9,11 @@ The solution combines data cleaning, feature engineering, buyer segmentation, tr
 The objective is to identify distinct buyer groups, understand investment behavior, analyze transaction trends, and support data-driven decision-making.
 
 ---
+        # Live Streamlit Dashboard
+
+https://real-estate-buyer-segmentation-analytics-4ldxebt8hf6hbn84ctray.streamlit.app/
+
+---
 
 ## Business Problem
 
